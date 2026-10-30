@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Fonts - overridden dynamically from JSON */
+  --font-primary: var(--font-primary, 'Montserrat', sans-serif);
+  --font-heading: var(--font-heading, 'Montserrat', sans-serif);
+
+  /* Option 3: Modern Midnight Sapphire & Electric Amber Palette */
+  --color-bg-main: #ffffff;
+  --color-bg-card: #ffffff;
+  --color-bg-light: #ffffff;
+  --color-bg-alt: #f8f9fa;
+  --color-primary: #0d1b2a;
+  --color-primary-dark: #070f18;
+  --color-primary-light: #1b263b;
+  --color-secondary: #e07a5f;
+  --color-accent: #e07a5f;
+  --color-accent-light: #f4a261;
+  --color-accent-dark: #c86348;
+  --color-accent-bg: #fdf2ec;
+  --color-text: #1e293b;
+  --color-text-light: #64748b;
+  --color-text-muted: #94a3b8;
+  --color-border: #e2e8f0;
+  --color-border-light: #edf2f7;
+  --color-card-dark: #1b263b;
+  --color-card-darker: #0d1b2a;
+}
+
+body {
+  font-family: var(--font-primary);
+  color: var(--color-text);
+  background-color: var(--color-bg-main);
+}

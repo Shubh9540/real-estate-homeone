@@ -1,0 +1,1667 @@
+{
+  "common": {
+    "metadata": {
+      "title": "HomeOne | Find & Secure Your Next Dream Property",
+      "description": "Explore verified luxury homes, modern city apartments, and prime real estate investments with transparent pricing and top-tier advisory.",
+      "icon": "/main logo/logo.webp"
+    },
+    "Footer": {
+      "logo": "/main logo/logo.webp",
+      "logoAlt": "HomeOne Logo",
+      "logoUrl": "/",
+      "backgroundImage": "/other/hero.webp",
+      "backgroundImageAlt": "Modern luxury home at night",
+      "copyrightText": "© 2026 HomeOne. All rights reserved.",
+      "description": "Your trusted partner in modern real estate. We empower homebuyers, sellers, and investors with curated listings, accurate market valuation, and seamless transactions.",
+      "quickLinksTitle": "Quick Links",
+      "contactTitle": "Contact Info",
+      "companyTitle": "Company",
+      "socialLinks": [
+        {
+          "id": "social-facebook",
+          "icon": "FaFacebookF",
+          "label": "Facebook",
+          "url": "https://facebook.com"
+        },
+        {
+          "id": "social-x",
+          "icon": "FaXTwitter",
+          "label": "X",
+          "url": "https://x.com"
+        },
+        {
+          "id": "social-instagram",
+          "icon": "FaInstagram",
+          "label": "Instagram",
+          "url": "https://instagram.com"
+        },
+        {
+          "id": "social-linkedin",
+          "icon": "FaLinkedinIn",
+          "label": "LinkedIn",
+          "url": "https://linkedin.com"
+        },
+        {
+          "id": "social-youtube",
+          "icon": "FaYoutube",
+          "label": "YouTube",
+          "url": "https://youtube.com"
+        }
+      ],
+      "quickLinks": [
+        {
+          "id": "quick-about",
+          "label": "About Us",
+          "url": "/#about"
+        },
+        {
+          "id": "quick-services",
+          "label": "Our Services",
+          "url": "/#services"
+        },
+        {
+          "id": "quick-why-us",
+          "label": "Why Choose Us",
+          "url": "/#why-choose-us"
+        },
+        {
+          "id": "quick-properties",
+          "label": "Properties",
+          "url": "/#properties"
+        }
+      ],
+      "companyLinks": [
+        {
+          "id": "company-agents",
+          "label": "Our Agents",
+          "url": "/#agents"
+        },
+        {
+          "id": "company-testimonials",
+          "label": "Testimonials",
+          "url": "/#testimonials"
+        },
+        {
+          "id": "company-contact",
+          "label": "Contact Us",
+          "url": "/#contact"
+        }
+      ],
+      "contactItems": [
+        {
+          "id": "contact-office",
+          "icon": "FaMapMarkerAlt",
+          "title": "Our Office",
+          "value": "123 Main St, NY, USA",
+          "url": "https://www.google.com/maps/search/?api=1&query=123+Main+St%2C+New+York%2C+NY%2C+USA"
+        },
+        {
+          "id": "contact-phone",
+          "icon": "FaPhoneAlt",
+          "title": "Call Us",
+          "value": "+1 000000000",
+          "url": "tel:+1000000000"
+        },
+        {
+          "id": "contact-email",
+          "icon": "FaEnvelope",
+          "title": "Email Us",
+          "value": "info@xyz.com",
+          "url": "mailto:info@xyz.com"
+        }
+      ]
+    },
+    "font": {
+      "primary": "Montserrat",
+      "heading": "Montserrat"
+    }
+  },
+  "categories": {
+    "RealEstate": {
+      "sections": {
+        "TopBar": {
+          "variants": {}
+        },
+        "Header": {
+          "variants": {
+            "FourHomelessHeader2": {
+              "logo": "/main logo/logo.webp",
+              "logoAlt": "4homeless Real Estate",
+              "navLinksLeft": [
+                {
+                  "id": "nav-home",
+                  "label": "Home",
+                  "url": "/#hero"
+                },
+                {
+                  "id": "nav-about",
+                  "label": "About",
+                  "url": "/#about"
+                },
+                {
+                  "id": "nav-services",
+                  "label": "Services",
+                  "url": "/#services"
+                },
+                {
+                  "id": "nav-why-us",
+                  "label": "Why Us",
+                  "url": "/#why-choose-us"
+                }
+              ],
+              "navLinksRight": [
+                {
+                  "id": "nav-properties",
+                  "label": "Properties",
+                  "url": "/#properties"
+                },
+                {
+                  "id": "nav-agents",
+                  "label": "Agents",
+                  "url": "/#agents"
+                },
+                {
+                  "id": "nav-testimonials",
+                  "label": "Reviews",
+                  "url": "/#testimonials"
+                }
+              ],
+              "contactButton": {
+                "text": "Contact Us",
+                "url": "/#contact"
+              }
+            }
+          }
+        },
+        "Hero": {
+          "variants": {
+            "FourHomelessHero2": {
+              "eyebrow": "SMART REAL ESTATE SOLUTIONS",
+              "titleLine1": "Discover Exceptional Living in",
+              "highlightedTitle": "Prime Locations",
+              "description": "From sunlit penthouses to serene suburban villas, we connect you with meticulously vetted spaces tailored to your lifestyle and long-term vision.",
+              "image": "/other/hero.webp",
+              "imageAlt": "Modern luxury home with a swimming pool",
+              "primaryButton": {
+                "text": "Explore Properties",
+                "url": "/contact",
+                "icon": "FaArrowRight"
+              }
+            }
+          }
+        },
+        "AboutUs": {
+          "variants": {
+            "FourHomelessAboutUs2": {
+              "subtitle": "ABOUT HOMEONE",
+              "titleLine1": "Redefining Modern Living",
+              "titleLine2": "With Proven Expertise &",
+              "highlightedTitle": "True Integrity",
+              "description": "Over a decade of matching buyers with extraordinary spaces. We combine neighborhood intelligence, verified legal due diligence, and bespoke client advisory to ensure your property journey is smooth, rewarding, and transparent.",
+              "imageMain": "/other/about_main.webp",
+              "imageMainAlt": "Modern luxury home surrounded by landscaped gardens",
+              "imageSecondaryLeft": "/other/about_1.webp",
+              "imageSecondaryLeftAlt": "Bright modern living room with a staircase",
+              "imageSecondaryRight": "/other/about_2.webp",
+              "imageSecondaryRightAlt": "Modern dining room and kitchen interior",
+              "features": [
+                {
+                  "id": "about-feature-1",
+                  "icon": "FaHome",
+                  "label": "100% Verified Listings"
+                },
+                {
+                  "id": "about-feature-2",
+                  "icon": "FaHandshake",
+                  "label": "Zero Hidden Fees"
+                },
+                {
+                  "id": "about-feature-3",
+                  "icon": "FaMapMarkerAlt",
+                  "label": "Prime Neighborhoods"
+                },
+                {
+                  "id": "about-feature-4",
+                  "icon": "FaShieldAlt",
+                  "label": "Secure Documentation"
+                }
+              ]
+            }
+          }
+        },
+        "Agents": {
+          "variants": {
+            "FourHomelessAgents2": {
+              "subtitle": "TOP-PERFORMING ADVISORS",
+              "title1": "Meet The Experts",
+              "highlightedTitle": "Behind Your Moves",
+              "description": "Our licensed advisors bring deep local knowledge, sharp market foresight, and round-the-clock commitment to protect your interests.",
+              "viewAllText": "Connect With Team",
+              "viewAllUrl": "/agents",
+              "itemsPerPage": 8,
+              "paginationLabel": "Agent page",
+              "pagination": [
+                {
+                  "id": "agent-page-1",
+                  "label": "1",
+                  "page": 1
+                },
+                {
+                  "id": "agent-page-2",
+                  "label": "2",
+                  "page": 2
+                }
+              ],
+              "detailUI": {
+                "title1": "About Our",
+                "highlightedTitle": "Agent",
+                "locationLabel": "Location:",
+                "phoneLabel": "Phone:",
+                "practiceAreaLabel": "Practice Area:",
+                "socialLinks": [
+                  {
+                    "id": "agent-social-facebook",
+                    "icon": "FaFacebookF",
+                    "label": "Facebook",
+                    "url": "https://www.facebook.com"
+                  },
+                  {
+                    "id": "agent-social-twitter",
+                    "icon": "FaXTwitter",
+                    "label": "X",
+                    "url": "https://x.com"
+                  },
+                  {
+                    "id": "agent-social-linkedin",
+                    "icon": "FaLinkedinIn",
+                    "label": "LinkedIn",
+                    "url": "https://www.linkedin.com"
+                  },
+                  {
+                    "id": "agent-social-instagram",
+                    "icon": "FaInstagram",
+                    "label": "Instagram",
+                    "url": "https://www.instagram.com"
+                  }
+                ],
+                "services": [
+                  {
+                    "id": "agent-service-buying",
+                    "icon": "FaHome",
+                    "title": "Home Buying",
+                    "description": "Get expert guidance to find your dream home with the right location, best value and complete support throughout the buying process.",
+                    "linkText": "Read More",
+                    "url": "/services"
+                  },
+                  {
+                    "id": "agent-service-selling",
+                    "icon": "FaHandshake",
+                    "title": "Home Selling",
+                    "description": "Maximize the value of your property with our market expertise, strategic marketing and professional selling support.",
+                    "linkText": "Read More",
+                    "url": "/services"
+                  },
+                  {
+                    "id": "agent-service-escrow",
+                    "icon": "FaFileContract",
+                    "title": "Escrow Services",
+                    "description": "Ensure a safe, secure and hassle-free transaction with our reliable escrow services and complete transparency.",
+                    "linkText": "Read More",
+                    "url": "/contact"
+                  }
+                ]
+              },
+              "agents": [
+                {
+                  "id": "agent-amit-sharma",
+                  "category": "Residential",
+                  "name": "Amit Sharma",
+                  "role": "Senior Real Estate Agent",
+                  "location": "New Delhi, India",
+                  "locationIcon": "FaMapMarkerAlt",
+                  "image": "/other/team_1.webp",
+                  "imageAlt": "Amit Sharma, Senior Real Estate Agent",
+                  "stats": [
+                    {
+                      "id": "amit-properties",
+                      "label": "Properties Sold",
+                      "value": "120",
+                      "icon": "FaHome"
+                    },
+                    {
+                      "id": "amit-rating",
+                      "label": "Client Rating",
+                      "value": "4.9",
+                      "icon": "FaRegStar"
+                    },
+                    {
+                      "id": "amit-listings",
+                      "label": "Active Listings",
+                      "value": "35",
+                      "icon": "FaUserFriends"
+                    }
+                  ],
+                  "profileUrl": "/agents/agent-amit-sharma",
+                  "contactUrl": "/contact",
+                  "detail": {
+                    "about": "Amit Sharma is a dedicated and experienced real estate professional with a strong focus on helping clients buy, sell and invest in properties. His client-first approach ensures a smooth, transparent and rewarding real estate experience.",
+                    "address": "123, MG Road, New Delhi, India",
+                    "phone": "+1 00000 00000",
+                    "practiceArea": "Property Seller",
+                    "experience": "With over 8 years of experience in the real estate industry, Amit specializes in residential and luxury properties. His deep market knowledge, strong negotiation skills and attention to detail make him a trusted advisor for every real estate need.",
+                    "closingText": "Amit is passionate about real estate and takes pride in helping clients make informed decisions. He provides honest advice, clear communication and complete support to make the entire process simple and successful."
+                  }
+                },
+                {
+                  "id": "agent-priya-mehta",
+                  "category": "Luxury",
+                  "name": "Priya Mehta",
+                  "role": "Luxury Property Specialist",
+                  "location": "Mumbai, Maharashtra",
+                  "locationIcon": "FaMapMarkerAlt",
+                  "image": "/other/team_2.webp",
+                  "imageAlt": "Priya Mehta, Luxury Property Specialist",
+                  "stats": [
+                    {
+                      "id": "priya-properties",
+                      "label": "Properties Sold",
+                      "value": "95",
+                      "icon": "FaHome"
+                    },
+                    {
+                      "id": "priya-rating",
+                      "label": "Client Rating",
+                      "value": "4.8",
+                      "icon": "FaRegStar"
+                    },
+                    {
+                      "id": "priya-listings",
+                      "label": "Active Listings",
+                      "value": "28",
+                      "icon": "FaUserFriends"
+                    }
+                  ],
+                  "profileUrl": "/agents/agent-priya-mehta",
+                  "contactUrl": "/contact",
+                  "detail": {
+                    "about": "Priya Mehta helps buyers and investors discover exceptional luxury homes that match their lifestyle and long-term goals. She combines thoughtful service with detailed local market insight.",
+                    "address": "Bandra West, Mumbai, India",
+                    "phone": "+1 00000 00000",
+                    "practiceArea": "Luxury Property Specialist",
+                    "experience": "Priya brings extensive experience in premium apartments, villas and investment residences. Her careful property selection and clear guidance help clients move forward with confidence.",
+                    "closingText": "From the first consultation to the final handover, Priya stays closely involved and makes every step clear, personal and stress-free."
+                  }
+                },
+                {
+                  "id": "agent-rahul-verma",
+                  "category": "Commercial",
+                  "name": "Rahul Verma",
+                  "role": "Commercial Real Estate Expert",
+                  "location": "Bangalore, Karnataka",
+                  "locationIcon": "FaMapMarkerAlt",
+                  "image": "/other/team_3.webp",
+                  "imageAlt": "Rahul Verma, Commercial Real Estate Expert",
+                  "stats": [
+                    {
+                      "id": "rahul-properties",
+                      "label": "Properties Sold",
+                      "value": "150",
+                      "icon": "FaHome"
+                    },
+                    {
+                      "id": "rahul-rating",
+                      "label": "Client Rating",
+                      "value": "4.9",
+                      "icon": "FaRegStar"
+                    },
+                    {
+                      "id": "rahul-listings",
+                      "label": "Active Listings",
+                      "value": "42",
+                      "icon": "FaUserFriends"
+                    }
+                  ],
+                  "profileUrl": "/agents/agent-rahul-verma",
+                  "contactUrl": "/contact",
+                  "detail": {
+                    "about": "Rahul Verma advises businesses and investors on commercial property opportunities across Bangalore. He is known for practical recommendations and strong transaction management.",
+                    "address": "Whitefield, Bangalore, India",
+                    "phone": "+1 00000 00000",
+                    "practiceArea": "Commercial Property Expert",
+                    "experience": "Rahul has led office, retail and mixed-use property transactions for growing businesses and established investors. He evaluates each opportunity through location, returns and future potential.",
+                    "closingText": "Rahul focuses on building dependable partnerships and delivering commercial property solutions that support each client's business goals."
+                  }
+                },
+                {
+                  "id": "agent-neha-kapoor",
+                  "category": "Investment",
+                  "name": "Neha Kapoor",
+                  "role": "Investment Advisor",
+                  "location": "Hyderabad, India",
+                  "locationIcon": "FaMapMarkerAlt",
+                  "image": "/other/team_4.webp",
+                  "imageAlt": "Neha Kapoor, Investment Advisor",
+                  "stats": [
+                    {
+                      "id": "neha-properties",
+                      "label": "Properties Sold",
+                      "value": "110",
+                      "icon": "FaHome"
+                    },
+                    {
+                      "id": "neha-rating",
+                      "label": "Client Rating",
+                      "value": "4.7",
+                      "icon": "FaRegStar"
+                    },
+                    {
+                      "id": "neha-listings",
+                      "label": "Active Listings",
+                      "value": "30",
+                      "icon": "FaUserFriends"
+                    }
+                  ],
+                  "profileUrl": "/agents/agent-neha-kapoor",
+                  "contactUrl": "/contact",
+                  "detail": {
+                    "about": "Neha Kapoor supports clients who want to build a balanced real estate portfolio through carefully selected residential and emerging-market investments.",
+                    "address": "Banjara Hills, Hyderabad, India",
+                    "phone": "+1 00000 00000",
+                    "practiceArea": "Property Investment",
+                    "experience": "Neha studies market movement, rental demand and long-term growth to identify reliable opportunities. Her structured approach makes property investing easier to understand.",
+                    "closingText": "Neha believes every investment decision should be backed by clear information, realistic expectations and a strategy built around the client's priorities."
+                  }
+                }
+              ],
+              "additionalAgents": [
+                {
+                  "id": "agent-karan-singh",
+                  "category": "New Development",
+                  "name": "Karan Singh",
+                  "role": "New Development Specialist",
+                  "location": "Pune, India",
+                  "locationIcon": "FaMapMarkerAlt",
+                  "image": "/other/team_5.webp",
+                  "imageAlt": "Karan Singh, New Development Specialist",
+                  "stats": [
+                    {
+                      "id": "karan-properties",
+                      "label": "Properties Sold",
+                      "value": "85",
+                      "icon": "FaHome"
+                    },
+                    {
+                      "id": "karan-rating",
+                      "label": "Client Rating",
+                      "value": "4.8",
+                      "icon": "FaRegStar"
+                    },
+                    {
+                      "id": "karan-listings",
+                      "label": "Active Listings",
+                      "value": "25",
+                      "icon": "FaUserFriends"
+                    }
+                  ],
+                  "profileUrl": "/agents/agent-karan-singh",
+                  "contactUrl": "/contact",
+                  "detail": {
+                    "about": "Karan Singh works closely with buyers exploring newly launched and under-construction communities in Pune.",
+                    "address": "Baner, Pune, India",
+                    "phone": "+1 00000 00000",
+                    "practiceArea": "New Developments",
+                    "experience": "Karan combines project research, builder coordination and practical buying guidance to help clients choose promising new developments.",
+                    "closingText": "He keeps every client informed from project selection through documentation and possession."
+                  }
+                },
+                {
+                  "id": "agent-sneha-reddy",
+                  "category": "Residential",
+                  "name": "Sneha Reddy",
+                  "role": "Residential Property Consultant",
+                  "location": "Chennai, India",
+                  "locationIcon": "FaMapMarkerAlt",
+                  "image": "/other/team_6.webp",
+                  "imageAlt": "Sneha Reddy, Residential Property Consultant",
+                  "stats": [
+                    {
+                      "id": "sneha-properties",
+                      "label": "Properties Sold",
+                      "value": "98",
+                      "icon": "FaHome"
+                    },
+                    {
+                      "id": "sneha-rating",
+                      "label": "Client Rating",
+                      "value": "4.9",
+                      "icon": "FaRegStar"
+                    },
+                    {
+                      "id": "sneha-listings",
+                      "label": "Active Listings",
+                      "value": "33",
+                      "icon": "FaUserFriends"
+                    }
+                  ],
+                  "profileUrl": "/agents/agent-sneha-reddy",
+                  "contactUrl": "/contact",
+                  "detail": {
+                    "about": "Sneha Reddy helps families find comfortable residential properties in well-connected Chennai neighborhoods.",
+                    "address": "Adyar, Chennai, India",
+                    "phone": "+1 00000 00000",
+                    "practiceArea": "Residential Property",
+                    "experience": "Sneha understands the needs of first-time buyers and growing families, offering patient guidance and dependable local knowledge.",
+                    "closingText": "Her goal is to turn a complex home search into a simple and reassuring experience."
+                  }
+                },
+                {
+                  "id": "agent-vikram-patel",
+                  "category": "Rental",
+                  "name": "Vikram Patel",
+                  "role": "Rental Property Specialist",
+                  "location": "Kolkata, India",
+                  "locationIcon": "FaMapMarkerAlt",
+                  "image": "/other/team_1.webp",
+                  "imageAlt": "Vikram Patel, Rental Property Specialist",
+                  "stats": [
+                    {
+                      "id": "vikram-properties",
+                      "label": "Properties Sold",
+                      "value": "105",
+                      "icon": "FaHome"
+                    },
+                    {
+                      "id": "vikram-rating",
+                      "label": "Client Rating",
+                      "value": "4.8",
+                      "icon": "FaRegStar"
+                    },
+                    {
+                      "id": "vikram-listings",
+                      "label": "Active Listings",
+                      "value": "27",
+                      "icon": "FaUserFriends"
+                    }
+                  ],
+                  "profileUrl": "/agents/agent-vikram-patel",
+                  "contactUrl": "/contact",
+                  "detail": {
+                    "about": "Vikram Patel connects tenants and property owners through efficient, transparent rental services.",
+                    "address": "Salt Lake, Kolkata, India",
+                    "phone": "+1 00000 00000",
+                    "practiceArea": "Rental Property",
+                    "experience": "Vikram manages rental searches, property visits and documentation with a practical understanding of both tenant and landlord needs.",
+                    "closingText": "He values fast communication and fair solutions that create lasting rental relationships."
+                  }
+                },
+                {
+                  "id": "agent-anjali-gupta",
+                  "category": "Luxury",
+                  "name": "Anjali Gupta",
+                  "role": "Luxury Home Advisor",
+                  "location": "Jaipur, India",
+                  "locationIcon": "FaMapMarkerAlt",
+                  "image": "/other/team_2.webp",
+                  "imageAlt": "Anjali Gupta, Luxury Home Advisor",
+                  "stats": [
+                    {
+                      "id": "anjali-properties",
+                      "label": "Properties Sold",
+                      "value": "140",
+                      "icon": "FaHome"
+                    },
+                    {
+                      "id": "anjali-rating",
+                      "label": "Client Rating",
+                      "value": "4.9",
+                      "icon": "FaRegStar"
+                    },
+                    {
+                      "id": "anjali-listings",
+                      "label": "Active Listings",
+                      "value": "38",
+                      "icon": "FaUserFriends"
+                    }
+                  ],
+                  "profileUrl": "/agents/agent-anjali-gupta",
+                  "contactUrl": "/contact",
+                  "detail": {
+                    "about": "Anjali Gupta curates distinctive luxury homes for clients seeking privacy, design and exceptional locations.",
+                    "address": "C-Scheme, Jaipur, India",
+                    "phone": "+1 00000 00000",
+                    "practiceArea": "Luxury Homes",
+                    "experience": "Anjali offers discreet advisory support for premium villas, estates and high-value residences with careful attention to every detail.",
+                    "closingText": "She creates a refined property experience shaped around each client's preferences and pace."
+                  }
+                },
+                {
+                  "id": "agent-arjun-mehra",
+                  "category": "Commercial",
+                  "name": "Arjun Mehra",
+                  "role": "Commercial Investment Advisor",
+                  "location": "Gurgaon, India",
+                  "locationIcon": "FaMapMarkerAlt",
+                  "image": "/other/team_3.webp",
+                  "imageAlt": "Arjun Mehra, Commercial Investment Advisor",
+                  "stats": [
+                    {
+                      "id": "arjun-properties",
+                      "label": "Properties Sold",
+                      "value": "132",
+                      "icon": "FaHome"
+                    },
+                    {
+                      "id": "arjun-rating",
+                      "label": "Client Rating",
+                      "value": "4.8",
+                      "icon": "FaRegStar"
+                    },
+                    {
+                      "id": "arjun-listings",
+                      "label": "Active Listings",
+                      "value": "31",
+                      "icon": "FaUserFriends"
+                    }
+                  ],
+                  "profileUrl": "/agents/agent-arjun-mehra",
+                  "contactUrl": "/contact",
+                  "detail": {
+                    "about": "Arjun Mehra helps investors identify commercial assets with sustainable demand and strong business potential.",
+                    "address": "Golf Course Road, Gurgaon, India",
+                    "phone": "+1 00000 00000",
+                    "practiceArea": "Commercial Investment",
+                    "experience": "Arjun evaluates office and retail opportunities through detailed market comparisons and financial planning.",
+                    "closingText": "His advice is grounded in research, transparency and a long-term view of investment performance."
+                  }
+                },
+                {
+                  "id": "agent-meera-joshi",
+                  "category": "Residential",
+                  "name": "Meera Joshi",
+                  "role": "Home Buying Consultant",
+                  "location": "Ahmedabad, India",
+                  "locationIcon": "FaMapMarkerAlt",
+                  "image": "/other/team_4.webp",
+                  "imageAlt": "Meera Joshi, Home Buying Consultant",
+                  "stats": [
+                    {
+                      "id": "meera-properties",
+                      "label": "Properties Sold",
+                      "value": "90",
+                      "icon": "FaHome"
+                    },
+                    {
+                      "id": "meera-rating",
+                      "label": "Client Rating",
+                      "value": "4.7",
+                      "icon": "FaRegStar"
+                    },
+                    {
+                      "id": "meera-listings",
+                      "label": "Active Listings",
+                      "value": "24",
+                      "icon": "FaUserFriends"
+                    }
+                  ],
+                  "profileUrl": "/agents/agent-meera-joshi",
+                  "contactUrl": "/contact",
+                  "detail": {
+                    "about": "Meera Joshi guides homebuyers through property discovery, comparison and confident decision-making.",
+                    "address": "Satellite, Ahmedabad, India",
+                    "phone": "+1 00000 00000",
+                    "practiceArea": "Home Buying",
+                    "experience": "Meera combines neighborhood insight with a clear understanding of budgets, amenities and family priorities.",
+                    "closingText": "She is committed to helping every buyer find a home that feels right today and remains valuable tomorrow."
+                  }
+                },
+                {
+                  "id": "agent-rohan-kapoor",
+                  "category": "Investment",
+                  "name": "Rohan Kapoor",
+                  "role": "Property Portfolio Consultant",
+                  "location": "Noida, India",
+                  "locationIcon": "FaMapMarkerAlt",
+                  "image": "/other/team_5.webp",
+                  "imageAlt": "Rohan Kapoor, Property Portfolio Consultant",
+                  "stats": [
+                    {
+                      "id": "rohan-properties",
+                      "label": "Properties Sold",
+                      "value": "115",
+                      "icon": "FaHome"
+                    },
+                    {
+                      "id": "rohan-rating",
+                      "label": "Client Rating",
+                      "value": "4.9",
+                      "icon": "FaRegStar"
+                    },
+                    {
+                      "id": "rohan-listings",
+                      "label": "Active Listings",
+                      "value": "29",
+                      "icon": "FaUserFriends"
+                    }
+                  ],
+                  "profileUrl": "/agents/agent-rohan-kapoor",
+                  "contactUrl": "/contact",
+                  "detail": {
+                    "about": "Rohan Kapoor creates focused property strategies for investors looking for growth, income and diversification.",
+                    "address": "Sector 62, Noida, India",
+                    "phone": "+1 00000 00000",
+                    "practiceArea": "Property Portfolio",
+                    "experience": "Rohan reviews market data, property fundamentals and client objectives before recommending suitable investments.",
+                    "closingText": "He helps clients make measured decisions and build real estate portfolios with purpose."
+                  }
+                },
+                {
+                  "id": "agent-kavya-nair",
+                  "category": "Luxury",
+                  "name": "Kavya Nair",
+                  "role": "Premium Property Advisor",
+                  "location": "Kochi, India",
+                  "locationIcon": "FaMapMarkerAlt",
+                  "image": "/other/team_6.webp",
+                  "imageAlt": "Kavya Nair, Premium Property Advisor",
+                  "stats": [
+                    {
+                      "id": "kavya-properties",
+                      "label": "Properties Sold",
+                      "value": "88",
+                      "icon": "FaHome"
+                    },
+                    {
+                      "id": "kavya-rating",
+                      "label": "Client Rating",
+                      "value": "4.8",
+                      "icon": "FaRegStar"
+                    },
+                    {
+                      "id": "kavya-listings",
+                      "label": "Active Listings",
+                      "value": "22",
+                      "icon": "FaUserFriends"
+                    }
+                  ],
+                  "profileUrl": "/agents/agent-kavya-nair",
+                  "contactUrl": "/contact",
+                  "detail": {
+                    "about": "Kavya Nair advises clients on premium waterfront homes, apartments and distinctive residential opportunities in Kochi.",
+                    "address": "Marine Drive, Kochi, India",
+                    "phone": "+1 00000 00000",
+                    "practiceArea": "Premium Property",
+                    "experience": "Kavya is valued for her calm communication, careful property curation and understanding of premium buyer expectations.",
+                    "closingText": "She delivers a personal, polished experience that keeps every important detail under control."
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "Services": {
+          "variants": {
+            "FourHomelessServices2": {
+              "subtitle": "OUR COMPREHENSIVE EXPERTISE",
+              "title1": "End-to-End Real Estate",
+              "title2": "Services Built For You",
+              "description": "Whether buying your first family home, managing rental yields, or diversifying your investment portfolio, our licensed advisors guide you through every milestone.",
+              "linkText": "Inquire Details",
+              "services": [
+                {
+                  "id": "service-buy-home",
+                  "title": "Residential",
+                  "highlightedTitle": "Acquisitions",
+                  "description": "Exclusive access to pre-market homes, luxury condominiums, and turnkey family residences in high-demand zones.",
+                  "image": "/other/service_1.webp",
+                  "imageAlt": "Modern luxury home available to buy",
+                  "icon": "FaHome",
+                  "url": "/services/buy-a-home"
+                },
+                {
+                  "id": "service-rent-home",
+                  "title": "Property Sales &",
+                  "highlightedTitle": "Marketing",
+                  "description": "Targeted digital campaigns, professional staging, and aggressive negotiation to maximize the return on your property.",
+                  "image": "/other/service_2.webp",
+                  "imageAlt": "Premium apartment interior available to rent",
+                  "icon": "FaKey",
+                  "url": "/services/rent-a-home"
+                },
+                {
+                  "id": "service-sell-home",
+                  "title": "Commercial &",
+                  "highlightedTitle": "Asset Advisory",
+                  "description": "Data-backed feasibility studies and leasing management for retail hubs, corporate suites, and multi-tenant assets.",
+                  "image": "/other/service_3.webp",
+                  "imageAlt": "Modern luxury property ready for sale",
+                  "icon": "FaHandshake",
+                  "url": "/services/sell-a-home"
+                }
+              ]
+            }
+          }
+        },
+        "Testimonials": {
+          "variants": {
+            "FourHomelessTestimonials2": {
+              "subtitle": "CLIENT VOICES",
+              "title1": "Real Stories From",
+              "title2": "Delighted Homeowners",
+              "description": "See how our personalized advisory and transparent process helped buyers, sellers, and families achieve their property dreams with total peace of mind.",
+              "backgroundImage": "/other/property_3.webp",
+              "backgroundImageAlt": "Modern luxury property behind client testimonials",
+              "previousLabel": "Previous testimonials",
+              "nextLabel": "Next testimonials",
+              "slideLabel": "Show testimonial",
+              "testimonials": [
+                {
+                  "id": "testimonial-rohit-mehta",
+                  "name": "Sophia Sterling",
+                  "location": "Purchased Midtown Penthouse",
+                  "quote": "HomeOne transformed a daunting hunt into an effortless success. Their market insight and proactive communication gave us absolute confidence at every step.",
+                  "rating": 5,
+                  "avatar": "/other/team_1.webp"
+                },
+                {
+                  "id": "testimonial-priya-sharma",
+                  "name": "Marcus Vance",
+                  "location": "Sold Highland Residence",
+                  "quote": "Exceptional professionalism. They positioned our luxury estate perfectly and closed well above our initial appraisal within just three weeks.",
+                  "rating": 5,
+                  "avatar": "/other/team_2.webp"
+                },
+                {
+                  "id": "testimonial-amit-verma",
+                  "name": "Elena Rostova",
+                  "location": "First-time Homebuyer",
+                  "quote": "From pre-approval navigation to the final keys handover, the team went above and beyond. We could not have asked for a more transparent experience.",
+                  "rating": 5,
+                  "avatar": "/other/team_3.webp"
+                },
+                {
+                  "id": "testimonial-neha-kapoor",
+                  "name": "Neha Kapoor",
+                  "location": "Homeowner, Pune",
+                  "quote": "From property visits to the final paperwork, every step was handled with care. The entire experience was simple and transparent.",
+                  "rating": 5,
+                  "avatar": "/other/team_4.webp"
+                },
+                {
+                  "id": "testimonial-vikram-singh",
+                  "name": "Vikram Singh",
+                  "location": "Investor, Gurgaon",
+                  "quote": "Their local market knowledge helped me choose a property with strong long-term value. I appreciated the honest and practical advice.",
+                  "rating": 5,
+                  "avatar": "/other/team_5.webp"
+                },
+                {
+                  "id": "testimonial-ananya-patel",
+                  "name": "Ananya Patel",
+                  "location": "Homebuyer, Hyderabad",
+                  "quote": "I found a beautiful home that matched my family's needs. The team stayed responsive and supportive throughout the complete journey.",
+                  "rating": 5,
+                  "avatar": "/other/team_6.webp"
+                }
+              ]
+            }
+          }
+        },
+        "whyChooseUs": {
+          "variants": {
+            "FourHomelessWhyChooseUs2": {
+              "subtitle": "WHY CHOOSE HOMEONE",
+              "title1": "Trusted Guidance For",
+              "title2": "High-Value Decisions",
+              "description": "We pair cutting-edge market analytics with dedicated personal service, turning complex property transactions into clear, confident milestones.",
+              "features": [
+                {
+                  "id": "why-feature-1",
+                  "icon": "FaBuilding",
+                  "title": "Curated Portfolios",
+                  "description": "Every property undergoes structural and title verification before reaching our catalog."
+                },
+                {
+                  "id": "why-feature-2",
+                  "icon": "FaShieldAlt",
+                  "title": "Honest Negotiations",
+                  "description": "We safeguard your bottom line with market data comparisons and clear price transparency."
+                },
+                {
+                  "id": "why-feature-3",
+                  "icon": "FaAward",
+                  "title": "Flexible Financing",
+                  "description": "Direct partnerships with leading mortgage lenders to secure competitive interest structures."
+                },
+                {
+                  "id": "why-feature-4",
+                  "icon": "FaUserTie",
+                  "title": "Dedicated Specialists",
+                  "description": "An experienced broker and legal support team assigned exclusively to your transaction."
+                }
+              ],
+              "imageMain": "/other/choose_us.webp",
+              "imageAlt": "Modern luxury home presented by 4homeless"
+            }
+          }
+        },
+        "OurProperties": {
+          "variants": {
+            "FourHomelessOurProperties2": {
+              "subtitle": "FEATURED PORTFOLIO",
+              "title1": "Handpicked Spaces",
+              "title2": "Ready For Move-In",
+              "description": "Explore modern residences, waterfront townhouses, and architectural marvels curated for refined living and strong capital appreciation.",
+              "viewText": "Schedule Viewing",
+              "previousLabel": "Show previous properties",
+              "nextLabel": "Show next properties",
+              "slideLabel": "Show property slide",
+              "itemsPerPage": 6,
+              "paginationLabel": "Show property page",
+              "pagination": [
+                {
+                  "id": "property-page-1",
+                  "label": "1",
+                  "page": 1
+                },
+                {
+                  "id": "property-page-2",
+                  "label": "2",
+                  "page": 2
+                }
+              ],
+              "detailUI": {
+                "featuredLabel": "Featured",
+                "viewAllPhotosText": "View All Photos",
+                "previousPhotoLabel": "Show previous property photo",
+                "nextPhotoLabel": "Show next property photo",
+                "closeGalleryLabel": "Close property photo gallery",
+                "scheduleButtonText": "Schedule a Visit",
+                "scheduleButtonUrl": "/book-a-visit",
+                "descriptionTitle": "Description",
+                "detailsTitle": "Property Detail",
+                "factsTitle": "Facts and Features",
+                "detailLabels": {
+                  "propertyId": "Property ID",
+                  "location": "Location",
+                  "propertyType": "Property Type",
+                  "totalArea": "Total Area",
+                  "floor": "Floor No.",
+                  "bedrooms": "Bedrooms",
+                  "bathrooms": "Bathrooms",
+                  "balcony": "Balcony",
+                  "parking": "Parking",
+                  "yearBuilt": "Year Built",
+                  "status": "Property Status"
+                },
+                "factLabels": {
+                  "livingRoom": {
+                    "title": "Living Room",
+                    "icon": "FaCouch"
+                  },
+                  "bedrooms": {
+                    "title": "Bedrooms",
+                    "icon": "FaBed"
+                  },
+                  "bathrooms": {
+                    "title": "Bathrooms",
+                    "icon": "FaBath"
+                  },
+                  "kitchen": {
+                    "title": "Kitchen",
+                    "icon": "FaUtensils"
+                  },
+                  "diningArea": {
+                    "title": "Dining Area",
+                    "icon": "FaChair"
+                  },
+                  "balcony": {
+                    "title": "Balcony",
+                    "icon": "FaBuilding"
+                  },
+                  "parking": {
+                    "title": "Parking",
+                    "icon": "FaCar"
+                  },
+                  "security": {
+                    "title": "Security",
+                    "icon": "FaShieldAlt"
+                  }
+                },
+                "form": {
+                  "title": "Enquire About This Property",
+                  "namePlaceholder": "Your Name*",
+                  "emailPlaceholder": "Your Email*",
+                  "phonePlaceholder": "Your Phone*",
+                  "messagePlaceholder": "Your Message...",
+                  "buttonText": "Send Message",
+                  "successMessage": "Thank you. Your property enquiry has been submitted successfully."
+                }
+              },
+              "properties": [
+                {
+                  "id": "property-golf-course-road",
+                  "image": "/other/property_1.webp",
+                  "imageAlt": "Luxury modern villa on Golf Course Road",
+                  "propertyCount": "3 Properties",
+                  "propertyCountIcon": "FaHome",
+                  "location": "Midtown Financial District",
+                  "locationIcon": "FaMapMarkerAlt",
+                  "title": "The Horizon Sky Penthouse",
+                  "features": [
+                    {
+                      "id": "golf-course-bedrooms",
+                      "icon": "FaBed",
+                      "label": "3-5 BHK"
+                    },
+                    {
+                      "id": "golf-course-area",
+                      "icon": "FaRegSquare",
+                      "label": "1,500+ Sq.Ft."
+                    },
+                    {
+                      "id": "golf-course-type",
+                      "icon": "FaBuilding",
+                      "label": "Apartments"
+                    }
+                  ],
+                  "url": "/properties/property-golf-course-road",
+                  "detail": {
+                    "status": "For Sale",
+                    "category": "Residential",
+                    "publishedDate": "May 18, 2024",
+                    "comments": "25 Comments",
+                    "price": "₹2,45,00,000",
+                    "description": "Discover an elegant residence on Golf Course Road, designed for spacious and comfortable modern living. The property offers bright interiors, premium finishes, landscaped surroundings and excellent connectivity to business districts, schools, hospitals and shopping destinations.",
+                    "propertyType": "Apartment",
+                    "totalArea": "1,500+ Sq.Ft.",
+                    "bedrooms": "3-5 Bedrooms",
+                    "bathrooms": "4 Bathrooms",
+                    "yearBuilt": "2022",
+                    "floor": "8th Floor",
+                    "balcony": "2 Balconies",
+                    "parking": "1 Covered Parking",
+                    "livingRoom": "1 Spacious Living Room",
+                    "kitchen": "1 Modular Kitchen",
+                    "diningArea": "1 Dining Area",
+                    "security": "24/7 Security"
+                  }
+                },
+                {
+                  "id": "property-whitefield",
+                  "image": "/other/property_2.webp",
+                  "imageAlt": "Premium apartment interior in Whitefield",
+                  "propertyCount": "5 Properties",
+                  "propertyCountIcon": "FaHome",
+                  "location": "Sunset Crest Highlands",
+                  "locationIcon": "FaMapMarkerAlt",
+                  "title": "Verdant Modern Oasis Villa",
+                  "features": [
+                    {
+                      "id": "whitefield-bedrooms",
+                      "icon": "FaBed",
+                      "label": "2-4 BHK"
+                    },
+                    {
+                      "id": "whitefield-area",
+                      "icon": "FaRegSquare",
+                      "label": "1,000+ Sq.Ft."
+                    },
+                    {
+                      "id": "whitefield-type",
+                      "icon": "FaBuilding",
+                      "label": "Apartments"
+                    }
+                  ],
+                  "url": "/properties/property-whitefield",
+                  "detail": {
+                    "status": "For Sale",
+                    "category": "Luxury",
+                    "publishedDate": "June 02, 2024",
+                    "comments": "18 Comments",
+                    "price": "₹1,85,00,000",
+                    "description": "This premium Whitefield apartment combines refined interiors with panoramic city views. Thoughtfully planned living spaces, quality fittings and access to major technology parks make it an excellent home for professionals and growing families.",
+                    "propertyType": "Apartment",
+                    "totalArea": "1,000+ Sq.Ft.",
+                    "bedrooms": "2-4 Bedrooms",
+                    "bathrooms": "3 Bathrooms",
+                    "yearBuilt": "2023",
+                    "floor": "12th Floor",
+                    "balcony": "2 Balconies",
+                    "parking": "1 Covered Parking",
+                    "livingRoom": "1 Bright Living Room",
+                    "kitchen": "1 Modern Kitchen",
+                    "diningArea": "1 Dining Area",
+                    "security": "24/7 Security"
+                  }
+                },
+                {
+                  "id": "property-baner",
+                  "image": "/other/property_3.webp",
+                  "imageAlt": "Contemporary luxury villa in Baner",
+                  "propertyCount": "4 Properties",
+                  "propertyCountIcon": "FaHome",
+                  "location": "Bayside Marina Harbor",
+                  "locationIcon": "FaMapMarkerAlt",
+                  "title": "Aurora Coastal Residence",
+                  "features": [
+                    {
+                      "id": "baner-bedrooms",
+                      "icon": "FaBed",
+                      "label": "3-5 BHK"
+                    },
+                    {
+                      "id": "baner-area",
+                      "icon": "FaRegSquare",
+                      "label": "2,000+ Sq.Ft."
+                    },
+                    {
+                      "id": "baner-type",
+                      "icon": "FaHome",
+                      "label": "Villas"
+                    }
+                  ],
+                  "url": "/properties/property-baner",
+                  "detail": {
+                    "status": "For Sale",
+                    "category": "Villa",
+                    "publishedDate": "June 15, 2024",
+                    "comments": "32 Comments",
+                    "price": "₹3,75,00,000",
+                    "description": "A contemporary villa in Baner offering generous rooms, landscaped outdoor areas and warm modern interiors. Its peaceful setting and easy access to workplaces, dining and entertainment create a balanced premium lifestyle.",
+                    "propertyType": "Villa",
+                    "totalArea": "2,000+ Sq.Ft.",
+                    "bedrooms": "3-5 Bedrooms",
+                    "bathrooms": "4 Bathrooms",
+                    "yearBuilt": "2021",
+                    "floor": "2 Floors",
+                    "balcony": "3 Balconies",
+                    "parking": "2 Covered Parking",
+                    "livingRoom": "1 Spacious Living Room",
+                    "kitchen": "1 Modular Kitchen",
+                    "diningArea": "1 Dining Area",
+                    "security": "Gated Security"
+                  }
+                },
+                {
+                  "id": "property-dwarka-expressway",
+                  "image": "/other/property_4.webp",
+                  "imageAlt": "Modern residential property near Dwarka Expressway",
+                  "propertyCount": "6 Properties",
+                  "propertyCountIcon": "FaHome",
+                  "location": "Gurgaon, Haryana",
+                  "locationIcon": "FaMapMarkerAlt",
+                  "title": "Dwarka Expressway",
+                  "features": [
+                    {
+                      "id": "dwarka-bedrooms",
+                      "icon": "FaBed",
+                      "label": "2-4 BHK"
+                    },
+                    {
+                      "id": "dwarka-area",
+                      "icon": "FaRegSquare",
+                      "label": "1,250+ Sq.Ft."
+                    },
+                    {
+                      "id": "dwarka-type",
+                      "icon": "FaBuilding",
+                      "label": "Residences"
+                    }
+                  ],
+                  "url": "/properties/property-dwarka-expressway",
+                  "detail": {
+                    "status": "For Sale",
+                    "category": "Residential",
+                    "publishedDate": "July 04, 2024",
+                    "comments": "21 Comments",
+                    "price": "₹1,65,00,000",
+                    "description": "Located near Dwarka Expressway, this modern residence provides efficient layouts, natural light and convenient access to Delhi and Gurgaon. Community amenities and strong infrastructure make it ideal for comfortable urban living.",
+                    "propertyType": "Residence",
+                    "totalArea": "1,250+ Sq.Ft.",
+                    "bedrooms": "2-4 Bedrooms",
+                    "bathrooms": "3 Bathrooms",
+                    "yearBuilt": "2023",
+                    "floor": "10th Floor",
+                    "balcony": "2 Balconies",
+                    "parking": "1 Covered Parking",
+                    "livingRoom": "1 Modern Living Room",
+                    "kitchen": "1 Fitted Kitchen",
+                    "diningArea": "1 Dining Area",
+                    "security": "24/7 Security"
+                  }
+                },
+                {
+                  "id": "property-indiranagar",
+                  "image": "/other/property_5.webp",
+                  "imageAlt": "Elegant premium home in Indiranagar",
+                  "propertyCount": "3 Properties",
+                  "propertyCountIcon": "FaHome",
+                  "location": "Bangalore, Karnataka",
+                  "locationIcon": "FaMapMarkerAlt",
+                  "title": "Indiranagar",
+                  "features": [
+                    {
+                      "id": "indiranagar-bedrooms",
+                      "icon": "FaBed",
+                      "label": "3-4 BHK"
+                    },
+                    {
+                      "id": "indiranagar-area",
+                      "icon": "FaRegSquare",
+                      "label": "1,800+ Sq.Ft."
+                    },
+                    {
+                      "id": "indiranagar-type",
+                      "icon": "FaHome",
+                      "label": "Villas"
+                    }
+                  ],
+                  "url": "/properties/property-indiranagar",
+                  "detail": {
+                    "status": "For Sale",
+                    "category": "Luxury",
+                    "publishedDate": "July 22, 2024",
+                    "comments": "16 Comments",
+                    "price": "₹4,20,00,000",
+                    "description": "An elegant Indiranagar villa featuring refined architecture, spacious bedrooms and inviting social areas. The prime neighborhood places boutique shopping, restaurants and everyday conveniences within easy reach.",
+                    "propertyType": "Villa",
+                    "totalArea": "1,800+ Sq.Ft.",
+                    "bedrooms": "3-4 Bedrooms",
+                    "bathrooms": "4 Bathrooms",
+                    "yearBuilt": "2022",
+                    "floor": "2 Floors",
+                    "balcony": "3 Balconies",
+                    "parking": "2 Covered Parking",
+                    "livingRoom": "1 Luxury Living Room",
+                    "kitchen": "1 Designer Kitchen",
+                    "diningArea": "1 Dining Area",
+                    "security": "Smart Security"
+                  }
+                },
+                {
+                  "id": "property-hinjewadi",
+                  "image": "/other/property_6.webp",
+                  "imageAlt": "Premium residential apartments in Hinjewadi",
+                  "propertyCount": "7 Properties",
+                  "propertyCountIcon": "FaHome",
+                  "location": "Pune, Maharashtra",
+                  "locationIcon": "FaMapMarkerAlt",
+                  "title": "Hinjewadi",
+                  "features": [
+                    {
+                      "id": "hinjewadi-bedrooms",
+                      "icon": "FaBed",
+                      "label": "2-3 BHK"
+                    },
+                    {
+                      "id": "hinjewadi-area",
+                      "icon": "FaRegSquare",
+                      "label": "950+ Sq.Ft."
+                    },
+                    {
+                      "id": "hinjewadi-type",
+                      "icon": "FaBuilding",
+                      "label": "Apartments"
+                    }
+                  ],
+                  "url": "/properties/property-hinjewadi",
+                  "detail": {
+                    "status": "For Sale",
+                    "category": "Apartment",
+                    "publishedDate": "August 08, 2024",
+                    "comments": "14 Comments",
+                    "price": "₹98,00,000",
+                    "description": "A well-planned Hinjewadi apartment created for convenient city living. Functional interiors, community amenities and proximity to leading technology campuses make this home a practical investment choice.",
+                    "propertyType": "Apartment",
+                    "totalArea": "950+ Sq.Ft.",
+                    "bedrooms": "2-3 Bedrooms",
+                    "bathrooms": "2 Bathrooms",
+                    "yearBuilt": "2024",
+                    "floor": "9th Floor",
+                    "balcony": "1 Balcony",
+                    "parking": "1 Covered Parking",
+                    "livingRoom": "1 Comfortable Living Room",
+                    "kitchen": "1 Modular Kitchen",
+                    "diningArea": "1 Dining Area",
+                    "security": "24/7 Security"
+                  }
+                },
+                {
+                  "id": "property-sector-150",
+                  "image": "/other/property_7.webp",
+                  "imageAlt": "Spacious luxury residence in Sector 150",
+                  "propertyCount": "4 Properties",
+                  "propertyCountIcon": "FaHome",
+                  "location": "Noida, Uttar Pradesh",
+                  "locationIcon": "FaMapMarkerAlt",
+                  "title": "Sector 150",
+                  "features": [
+                    {
+                      "id": "sector-150-bedrooms",
+                      "icon": "FaBed",
+                      "label": "3-4 BHK"
+                    },
+                    {
+                      "id": "sector-150-area",
+                      "icon": "FaRegSquare",
+                      "label": "1,600+ Sq.Ft."
+                    },
+                    {
+                      "id": "sector-150-type",
+                      "icon": "FaBuilding",
+                      "label": "Residences"
+                    }
+                  ],
+                  "url": "/properties/property-sector-150",
+                  "detail": {
+                    "status": "For Sale",
+                    "category": "Residential",
+                    "publishedDate": "August 19, 2024",
+                    "comments": "27 Comments",
+                    "price": "₹1,95,00,000",
+                    "description": "This spacious Sector 150 residence offers contemporary design, green surroundings and family-focused amenities. Excellent road connectivity and a peaceful location provide the right combination of convenience and comfort.",
+                    "propertyType": "Residence",
+                    "totalArea": "1,600+ Sq.Ft.",
+                    "bedrooms": "3-4 Bedrooms",
+                    "bathrooms": "3 Bathrooms",
+                    "yearBuilt": "2022",
+                    "floor": "14th Floor",
+                    "balcony": "2 Balconies",
+                    "parking": "2 Covered Parking",
+                    "livingRoom": "1 Spacious Living Room",
+                    "kitchen": "1 Modular Kitchen",
+                    "diningArea": "1 Dining Area",
+                    "security": "24/7 Security"
+                  }
+                },
+                {
+                  "id": "property-thane-west",
+                  "image": "/other/property_8.webp",
+                  "imageAlt": "Contemporary apartment property in Thane West",
+                  "propertyCount": "5 Properties",
+                  "propertyCountIcon": "FaHome",
+                  "location": "Mumbai, Maharashtra",
+                  "locationIcon": "FaMapMarkerAlt",
+                  "title": "Thane West",
+                  "features": [
+                    {
+                      "id": "thane-west-bedrooms",
+                      "icon": "FaBed",
+                      "label": "2-4 BHK"
+                    },
+                    {
+                      "id": "thane-west-area",
+                      "icon": "FaRegSquare",
+                      "label": "1,100+ Sq.Ft."
+                    },
+                    {
+                      "id": "thane-west-type",
+                      "icon": "FaBuilding",
+                      "label": "Apartments"
+                    }
+                  ],
+                  "url": "/properties/property-thane-west",
+                  "detail": {
+                    "status": "For Sale",
+                    "category": "Apartment",
+                    "publishedDate": "September 05, 2024",
+                    "comments": "19 Comments",
+                    "price": "₹1,45,00,000",
+                    "description": "A contemporary Thane West apartment with thoughtfully designed rooms and easy access to schools, hospitals, retail and transit. The development offers modern amenities for a relaxed and connected lifestyle.",
+                    "propertyType": "Apartment",
+                    "totalArea": "1,100+ Sq.Ft.",
+                    "bedrooms": "2-4 Bedrooms",
+                    "bathrooms": "3 Bathrooms",
+                    "yearBuilt": "2023",
+                    "floor": "11th Floor",
+                    "balcony": "2 Balconies",
+                    "parking": "1 Covered Parking",
+                    "livingRoom": "1 Modern Living Room",
+                    "kitchen": "1 Fitted Kitchen",
+                    "diningArea": "1 Dining Area",
+                    "security": "24/7 Security"
+                  }
+                },
+                {
+                  "id": "property-gachibowli",
+                  "image": "/other/property_9.webp",
+                  "imageAlt": "Luxury family home in Gachibowli",
+                  "propertyCount": "3 Properties",
+                  "propertyCountIcon": "FaHome",
+                  "location": "Hyderabad, Telangana",
+                  "locationIcon": "FaMapMarkerAlt",
+                  "title": "Gachibowli",
+                  "features": [
+                    {
+                      "id": "gachibowli-bedrooms",
+                      "icon": "FaBed",
+                      "label": "3-5 BHK"
+                    },
+                    {
+                      "id": "gachibowli-area",
+                      "icon": "FaRegSquare",
+                      "label": "1,900+ Sq.Ft."
+                    },
+                    {
+                      "id": "gachibowli-type",
+                      "icon": "FaHome",
+                      "label": "Villas"
+                    }
+                  ],
+                  "url": "/properties/property-gachibowli",
+                  "detail": {
+                    "status": "For Sale",
+                    "category": "Villa",
+                    "publishedDate": "September 18, 2024",
+                    "comments": "23 Comments",
+                    "price": "₹3,25,00,000",
+                    "description": "A premium Gachibowli villa designed for families seeking generous spaces and excellent city connectivity. Bright interiors, landscaped surroundings and proximity to major business hubs make it a compelling home and investment.",
+                    "propertyType": "Villa",
+                    "totalArea": "1,900+ Sq.Ft.",
+                    "bedrooms": "3-5 Bedrooms",
+                    "bathrooms": "4 Bathrooms",
+                    "yearBuilt": "2021",
+                    "floor": "2 Floors",
+                    "balcony": "3 Balconies",
+                    "parking": "2 Covered Parking",
+                    "livingRoom": "1 Spacious Living Room",
+                    "kitchen": "1 Modular Kitchen",
+                    "diningArea": "1 Dining Area",
+                    "security": "Gated Security"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "contact": {
+          "variants": {
+            "FourHomelessContact2": {
+              "backgroundImage": "/other/property_1.webp",
+              "backgroundImageAlt": "Luxury modern home beside the contact form",
+              "intro": {
+                "eyebrow": "GET IN TOUCH",
+                "title": "Let’s Discuss Your Next",
+                "titleHighlight": "Property Milestone",
+                "description": "Whether you have a question about current market trends, want a private home tour, or need an asset valuation, our advisory desk is ready to assist."
+              },
+              "form": {
+                "eyebrow": "BOOK A CONSULTATION",
+                "title": "Speak With A",
+                "titleHighlight": "Licensed Broker",
+                "description": "Fill out your requirements below and an expert agent will reach out within 2 hours with customized listings and options.",
+                "fullNamePlaceholder": "Your Name",
+                "phonePlaceholder": "Your Phone",
+                "emailPlaceholder": "Your Email",
+                "subjectPlaceholder": "Subject",
+                "messagePlaceholder": "Your Message",
+                "buttonText": "Send Inquiry",
+                "successMessage": "Thank you! Your request has been received. A senior advisor will contact you shortly."
+              },
+              "contactPanel": {
+                "eyebrow": "DIRECT CHANNELS",
+                "title1": "Visit Our",
+                "titleHighlight": "Advisory Office",
+                "description": "Drop by our Midtown office or reach out directly through phone or email for immediate property assistance.",
+                "items": [
+                  {
+                    "id": "contact-info-address",
+                    "icon": "FaMapMarkerAlt",
+                    "title": "Address",
+                    "lines": [
+                      {
+                        "id": "contact-office-address",
+                        "text": "123 Main St, New York, NY, USA"
+                      }
+                    ],
+                    "url": "https://www.google.com/maps/search/?api=1&query=123+Main+St%2C+New+York%2C+NY%2C+USA"
+                  },
+                  {
+                    "id": "contact-info-phone",
+                    "icon": "FaPhoneAlt",
+                    "title": "Phone",
+                    "lines": [
+                      {
+                        "id": "contact-phone-number",
+                        "text": "+1 000000000"
+                      }
+                    ],
+                    "url": "tel:+1000000000"
+                  },
+                  {
+                    "id": "contact-info-email",
+                    "icon": "FaEnvelope",
+                    "title": "Email",
+                    "lines": [
+                      {
+                        "id": "contact-email-address",
+                        "text": "info@xyz.com"
+                      }
+                    ],
+                    "url": "mailto:info@xyz.com"
+                  },
+                  {
+                    "id": "contact-info-hours",
+                    "icon": "FaClock",
+                    "title": "Office Hours",
+                    "lines": [
+                      {
+                        "id": "contact-hours-weekday",
+                        "text": "Mon - Sat: 9:00 AM - 6:00 PM"
+                      },
+                      {
+                        "id": "contact-hours-sunday",
+                        "text": "Sunday: Closed"
+                      }
+                    ]
+                  }
+                ],
+                "socialTitle": "Follow Us",
+                "socialLinks": [
+                  {
+                    "id": "contact-social-facebook",
+                    "icon": "FaFacebookF",
+                    "label": "Facebook",
+                    "url": "https://facebook.com"
+                  },
+                  {
+                    "id": "contact-social-x",
+                    "icon": "FaXTwitter",
+                    "label": "X",
+                    "url": "https://x.com"
+                  },
+                  {
+                    "id": "contact-social-instagram",
+                    "icon": "FaInstagram",
+                    "label": "Instagram",
+                    "url": "https://instagram.com"
+                  },
+                  {
+                    "id": "contact-social-linkedin",
+                    "icon": "FaLinkedinIn",
+                    "label": "LinkedIn",
+                    "url": "https://linkedin.com"
+                  }
+                ]
+              },
+              "location": {
+                "eyebrow": "OUR LOCATION",
+                "title": "Visit Our Office",
+                "description": "123 Main St, New York, NY, USA",
+                "buttonText": "Get Directions",
+                "buttonUrl": "https://www.google.com/maps/search/?api=1&query=123+Main+St%2C+New+York%2C+NY%2C+USA",
+                "mapUrl": "https://www.google.com/maps?q=123+Main+St,+New+York,+NY,+USA&output=embed",
+                "mapTitle": "Map showing the 4homeless office location in New York"
+              }
+            }
+          }
+        }
+      },
+      "templateComponents": {
+        "pages": {
+          "home": {
+            "components": [
+              {
+                "key": "TopBar",
+                "component": "FourHomelessTopBar2"
+              },
+              {
+                "key": "Header",
+                "component": "FourHomelessHeader2"
+              },
+              {
+                "key": "Hero",
+                "component": "FourHomelessHero2"
+              },
+              {
+                "key": "AboutUs",
+                "component": "FourHomelessAboutUs2"
+              },
+              {
+                "key": "Services",
+                "component": "FourHomelessServices2"
+              },
+              {
+                "key": "WhyChooseUs",
+                "component": "FourHomelessWhyChooseUs2"
+              },
+              {
+                "key": "OurProperties",
+                "component": "FourHomelessOurProperties2"
+              },
+              {
+                "key": "Agents",
+                "component": "FourHomelessAgents2"
+              },
+              {
+                "key": "Testimonials",
+                "component": "FourHomelessTestimonials2"
+              },
+              {
+                "key": "Contact",
+                "component": "FourHomelessContact2"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "pages": {
+    "home": {
+      "components": [
+        "TopBar",
+        "Header",
+        "Hero",
+        "AboutUs",
+        "Services",
+        "WhyChooseUs",
+        "OurProperties",
+        "Agents",
+        "Testimonials",
+        "Contact",
+        "Footer"
+      ]
+    }
+  }
+}
