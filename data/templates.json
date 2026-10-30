@@ -119,9 +119,6 @@
   "categories": {
     "RealEstate": {
       "sections": {
-        "TopBar": {
-          "variants": {}
-        },
         "Header": {
           "variants": {
             "FourHomelessHeader2": {
@@ -238,79 +235,6 @@
               "description": "Our licensed advisors bring deep local knowledge, sharp market foresight, and round-the-clock commitment to protect your interests.",
               "viewAllText": "Connect With Team",
               "viewAllUrl": "/agents",
-              "itemsPerPage": 8,
-              "paginationLabel": "Agent page",
-              "pagination": [
-                {
-                  "id": "agent-page-1",
-                  "label": "1",
-                  "page": 1
-                },
-                {
-                  "id": "agent-page-2",
-                  "label": "2",
-                  "page": 2
-                }
-              ],
-              "detailUI": {
-                "title1": "About Our",
-                "highlightedTitle": "Agent",
-                "locationLabel": "Location:",
-                "phoneLabel": "Phone:",
-                "practiceAreaLabel": "Practice Area:",
-                "socialLinks": [
-                  {
-                    "id": "agent-social-facebook",
-                    "icon": "FaFacebookF",
-                    "label": "Facebook",
-                    "url": "https://www.facebook.com"
-                  },
-                  {
-                    "id": "agent-social-twitter",
-                    "icon": "FaXTwitter",
-                    "label": "X",
-                    "url": "https://x.com"
-                  },
-                  {
-                    "id": "agent-social-linkedin",
-                    "icon": "FaLinkedinIn",
-                    "label": "LinkedIn",
-                    "url": "https://www.linkedin.com"
-                  },
-                  {
-                    "id": "agent-social-instagram",
-                    "icon": "FaInstagram",
-                    "label": "Instagram",
-                    "url": "https://www.instagram.com"
-                  }
-                ],
-                "services": [
-                  {
-                    "id": "agent-service-buying",
-                    "icon": "FaHome",
-                    "title": "Home Buying",
-                    "description": "Get expert guidance to find your dream home with the right location, best value and complete support throughout the buying process.",
-                    "linkText": "Read More",
-                    "url": "/services"
-                  },
-                  {
-                    "id": "agent-service-selling",
-                    "icon": "FaHandshake",
-                    "title": "Home Selling",
-                    "description": "Maximize the value of your property with our market expertise, strategic marketing and professional selling support.",
-                    "linkText": "Read More",
-                    "url": "/services"
-                  },
-                  {
-                    "id": "agent-service-escrow",
-                    "icon": "FaFileContract",
-                    "title": "Escrow Services",
-                    "description": "Ensure a safe, secure and hassle-free transaction with our reliable escrow services and complete transparency.",
-                    "linkText": "Read More",
-                    "url": "/contact"
-                  }
-                ]
-              },
               "agents": [
                 {
                   "id": "agent-amit-sharma",
@@ -342,15 +266,7 @@
                     }
                   ],
                   "profileUrl": "/agents/agent-amit-sharma",
-                  "contactUrl": "/contact",
-                  "detail": {
-                    "about": "Amit Sharma is a dedicated and experienced real estate professional with a strong focus on helping clients buy, sell and invest in properties. His client-first approach ensures a smooth, transparent and rewarding real estate experience.",
-                    "address": "123, MG Road, New Delhi, India",
-                    "phone": "+1 00000 00000",
-                    "practiceArea": "Property Seller",
-                    "experience": "With over 8 years of experience in the real estate industry, Amit specializes in residential and luxury properties. His deep market knowledge, strong negotiation skills and attention to detail make him a trusted advisor for every real estate need.",
-                    "closingText": "Amit is passionate about real estate and takes pride in helping clients make informed decisions. He provides honest advice, clear communication and complete support to make the entire process simple and successful."
-                  }
+                  "contactUrl": "/contact"
                 },
                 {
                   "id": "agent-priya-mehta",
@@ -382,15 +298,7 @@
                     }
                   ],
                   "profileUrl": "/agents/agent-priya-mehta",
-                  "contactUrl": "/contact",
-                  "detail": {
-                    "about": "Priya Mehta helps buyers and investors discover exceptional luxury homes that match their lifestyle and long-term goals. She combines thoughtful service with detailed local market insight.",
-                    "address": "Bandra West, Mumbai, India",
-                    "phone": "+1 00000 00000",
-                    "practiceArea": "Luxury Property Specialist",
-                    "experience": "Priya brings extensive experience in premium apartments, villas and investment residences. Her careful property selection and clear guidance help clients move forward with confidence.",
-                    "closingText": "From the first consultation to the final handover, Priya stays closely involved and makes every step clear, personal and stress-free."
-                  }
+                  "contactUrl": "/contact"
                 },
                 {
                   "id": "agent-rahul-verma",
@@ -422,15 +330,7 @@
                     }
                   ],
                   "profileUrl": "/agents/agent-rahul-verma",
-                  "contactUrl": "/contact",
-                  "detail": {
-                    "about": "Rahul Verma advises businesses and investors on commercial property opportunities across Bangalore. He is known for practical recommendations and strong transaction management.",
-                    "address": "Whitefield, Bangalore, India",
-                    "phone": "+1 00000 00000",
-                    "practiceArea": "Commercial Property Expert",
-                    "experience": "Rahul has led office, retail and mixed-use property transactions for growing businesses and established investors. He evaluates each opportunity through location, returns and future potential.",
-                    "closingText": "Rahul focuses on building dependable partnerships and delivering commercial property solutions that support each client's business goals."
-                  }
+                  "contactUrl": "/contact"
                 },
                 {
                   "id": "agent-neha-kapoor",
@@ -462,15 +362,7 @@
                     }
                   ],
                   "profileUrl": "/agents/agent-neha-kapoor",
-                  "contactUrl": "/contact",
-                  "detail": {
-                    "about": "Neha Kapoor supports clients who want to build a balanced real estate portfolio through carefully selected residential and emerging-market investments.",
-                    "address": "Banjara Hills, Hyderabad, India",
-                    "phone": "+1 00000 00000",
-                    "practiceArea": "Property Investment",
-                    "experience": "Neha studies market movement, rental demand and long-term growth to identify reliable opportunities. Her structured approach makes property investing easier to understand.",
-                    "closingText": "Neha believes every investment decision should be backed by clear information, realistic expectations and a strategy built around the client's priorities."
-                  }
+                  "contactUrl": "/contact"
                 }
               ],
               "additionalAgents": [
@@ -955,88 +847,6 @@
               "previousLabel": "Show previous properties",
               "nextLabel": "Show next properties",
               "slideLabel": "Show property slide",
-              "itemsPerPage": 6,
-              "paginationLabel": "Show property page",
-              "pagination": [
-                {
-                  "id": "property-page-1",
-                  "label": "1",
-                  "page": 1
-                },
-                {
-                  "id": "property-page-2",
-                  "label": "2",
-                  "page": 2
-                }
-              ],
-              "detailUI": {
-                "featuredLabel": "Featured",
-                "viewAllPhotosText": "View All Photos",
-                "previousPhotoLabel": "Show previous property photo",
-                "nextPhotoLabel": "Show next property photo",
-                "closeGalleryLabel": "Close property photo gallery",
-                "scheduleButtonText": "Schedule a Visit",
-                "scheduleButtonUrl": "/book-a-visit",
-                "descriptionTitle": "Description",
-                "detailsTitle": "Property Detail",
-                "factsTitle": "Facts and Features",
-                "detailLabels": {
-                  "propertyId": "Property ID",
-                  "location": "Location",
-                  "propertyType": "Property Type",
-                  "totalArea": "Total Area",
-                  "floor": "Floor No.",
-                  "bedrooms": "Bedrooms",
-                  "bathrooms": "Bathrooms",
-                  "balcony": "Balcony",
-                  "parking": "Parking",
-                  "yearBuilt": "Year Built",
-                  "status": "Property Status"
-                },
-                "factLabels": {
-                  "livingRoom": {
-                    "title": "Living Room",
-                    "icon": "FaCouch"
-                  },
-                  "bedrooms": {
-                    "title": "Bedrooms",
-                    "icon": "FaBed"
-                  },
-                  "bathrooms": {
-                    "title": "Bathrooms",
-                    "icon": "FaBath"
-                  },
-                  "kitchen": {
-                    "title": "Kitchen",
-                    "icon": "FaUtensils"
-                  },
-                  "diningArea": {
-                    "title": "Dining Area",
-                    "icon": "FaChair"
-                  },
-                  "balcony": {
-                    "title": "Balcony",
-                    "icon": "FaBuilding"
-                  },
-                  "parking": {
-                    "title": "Parking",
-                    "icon": "FaCar"
-                  },
-                  "security": {
-                    "title": "Security",
-                    "icon": "FaShieldAlt"
-                  }
-                },
-                "form": {
-                  "title": "Enquire About This Property",
-                  "namePlaceholder": "Your Name*",
-                  "emailPlaceholder": "Your Email*",
-                  "phonePlaceholder": "Your Phone*",
-                  "messagePlaceholder": "Your Message...",
-                  "buttonText": "Send Message",
-                  "successMessage": "Thank you. Your property enquiry has been submitted successfully."
-                }
-              },
               "properties": [
                 {
                   "id": "property-golf-course-road",
@@ -1064,27 +874,7 @@
                       "label": "Apartments"
                     }
                   ],
-                  "url": "/properties/property-golf-course-road",
-                  "detail": {
-                    "status": "For Sale",
-                    "category": "Residential",
-                    "publishedDate": "May 18, 2024",
-                    "comments": "25 Comments",
-                    "price": "₹2,45,00,000",
-                    "description": "Discover an elegant residence on Golf Course Road, designed for spacious and comfortable modern living. The property offers bright interiors, premium finishes, landscaped surroundings and excellent connectivity to business districts, schools, hospitals and shopping destinations.",
-                    "propertyType": "Apartment",
-                    "totalArea": "1,500+ Sq.Ft.",
-                    "bedrooms": "3-5 Bedrooms",
-                    "bathrooms": "4 Bathrooms",
-                    "yearBuilt": "2022",
-                    "floor": "8th Floor",
-                    "balcony": "2 Balconies",
-                    "parking": "1 Covered Parking",
-                    "livingRoom": "1 Spacious Living Room",
-                    "kitchen": "1 Modular Kitchen",
-                    "diningArea": "1 Dining Area",
-                    "security": "24/7 Security"
-                  }
+                  "url": "/properties/property-golf-course-road"
                 },
                 {
                   "id": "property-whitefield",
@@ -1112,27 +902,7 @@
                       "label": "Apartments"
                     }
                   ],
-                  "url": "/properties/property-whitefield",
-                  "detail": {
-                    "status": "For Sale",
-                    "category": "Luxury",
-                    "publishedDate": "June 02, 2024",
-                    "comments": "18 Comments",
-                    "price": "₹1,85,00,000",
-                    "description": "This premium Whitefield apartment combines refined interiors with panoramic city views. Thoughtfully planned living spaces, quality fittings and access to major technology parks make it an excellent home for professionals and growing families.",
-                    "propertyType": "Apartment",
-                    "totalArea": "1,000+ Sq.Ft.",
-                    "bedrooms": "2-4 Bedrooms",
-                    "bathrooms": "3 Bathrooms",
-                    "yearBuilt": "2023",
-                    "floor": "12th Floor",
-                    "balcony": "2 Balconies",
-                    "parking": "1 Covered Parking",
-                    "livingRoom": "1 Bright Living Room",
-                    "kitchen": "1 Modern Kitchen",
-                    "diningArea": "1 Dining Area",
-                    "security": "24/7 Security"
-                  }
+                  "url": "/properties/property-whitefield"
                 },
                 {
                   "id": "property-baner",
@@ -1160,27 +930,7 @@
                       "label": "Villas"
                     }
                   ],
-                  "url": "/properties/property-baner",
-                  "detail": {
-                    "status": "For Sale",
-                    "category": "Villa",
-                    "publishedDate": "June 15, 2024",
-                    "comments": "32 Comments",
-                    "price": "₹3,75,00,000",
-                    "description": "A contemporary villa in Baner offering generous rooms, landscaped outdoor areas and warm modern interiors. Its peaceful setting and easy access to workplaces, dining and entertainment create a balanced premium lifestyle.",
-                    "propertyType": "Villa",
-                    "totalArea": "2,000+ Sq.Ft.",
-                    "bedrooms": "3-5 Bedrooms",
-                    "bathrooms": "4 Bathrooms",
-                    "yearBuilt": "2021",
-                    "floor": "2 Floors",
-                    "balcony": "3 Balconies",
-                    "parking": "2 Covered Parking",
-                    "livingRoom": "1 Spacious Living Room",
-                    "kitchen": "1 Modular Kitchen",
-                    "diningArea": "1 Dining Area",
-                    "security": "Gated Security"
-                  }
+                  "url": "/properties/property-baner"
                 },
                 {
                   "id": "property-dwarka-expressway",
@@ -1208,27 +958,7 @@
                       "label": "Residences"
                     }
                   ],
-                  "url": "/properties/property-dwarka-expressway",
-                  "detail": {
-                    "status": "For Sale",
-                    "category": "Residential",
-                    "publishedDate": "July 04, 2024",
-                    "comments": "21 Comments",
-                    "price": "₹1,65,00,000",
-                    "description": "Located near Dwarka Expressway, this modern residence provides efficient layouts, natural light and convenient access to Delhi and Gurgaon. Community amenities and strong infrastructure make it ideal for comfortable urban living.",
-                    "propertyType": "Residence",
-                    "totalArea": "1,250+ Sq.Ft.",
-                    "bedrooms": "2-4 Bedrooms",
-                    "bathrooms": "3 Bathrooms",
-                    "yearBuilt": "2023",
-                    "floor": "10th Floor",
-                    "balcony": "2 Balconies",
-                    "parking": "1 Covered Parking",
-                    "livingRoom": "1 Modern Living Room",
-                    "kitchen": "1 Fitted Kitchen",
-                    "diningArea": "1 Dining Area",
-                    "security": "24/7 Security"
-                  }
+                  "url": "/properties/property-dwarka-expressway"
                 },
                 {
                   "id": "property-indiranagar",
@@ -1256,27 +986,7 @@
                       "label": "Villas"
                     }
                   ],
-                  "url": "/properties/property-indiranagar",
-                  "detail": {
-                    "status": "For Sale",
-                    "category": "Luxury",
-                    "publishedDate": "July 22, 2024",
-                    "comments": "16 Comments",
-                    "price": "₹4,20,00,000",
-                    "description": "An elegant Indiranagar villa featuring refined architecture, spacious bedrooms and inviting social areas. The prime neighborhood places boutique shopping, restaurants and everyday conveniences within easy reach.",
-                    "propertyType": "Villa",
-                    "totalArea": "1,800+ Sq.Ft.",
-                    "bedrooms": "3-4 Bedrooms",
-                    "bathrooms": "4 Bathrooms",
-                    "yearBuilt": "2022",
-                    "floor": "2 Floors",
-                    "balcony": "3 Balconies",
-                    "parking": "2 Covered Parking",
-                    "livingRoom": "1 Luxury Living Room",
-                    "kitchen": "1 Designer Kitchen",
-                    "diningArea": "1 Dining Area",
-                    "security": "Smart Security"
-                  }
+                  "url": "/properties/property-indiranagar"
                 },
                 {
                   "id": "property-hinjewadi",
@@ -1304,27 +1014,7 @@
                       "label": "Apartments"
                     }
                   ],
-                  "url": "/properties/property-hinjewadi",
-                  "detail": {
-                    "status": "For Sale",
-                    "category": "Apartment",
-                    "publishedDate": "August 08, 2024",
-                    "comments": "14 Comments",
-                    "price": "₹98,00,000",
-                    "description": "A well-planned Hinjewadi apartment created for convenient city living. Functional interiors, community amenities and proximity to leading technology campuses make this home a practical investment choice.",
-                    "propertyType": "Apartment",
-                    "totalArea": "950+ Sq.Ft.",
-                    "bedrooms": "2-3 Bedrooms",
-                    "bathrooms": "2 Bathrooms",
-                    "yearBuilt": "2024",
-                    "floor": "9th Floor",
-                    "balcony": "1 Balcony",
-                    "parking": "1 Covered Parking",
-                    "livingRoom": "1 Comfortable Living Room",
-                    "kitchen": "1 Modular Kitchen",
-                    "diningArea": "1 Dining Area",
-                    "security": "24/7 Security"
-                  }
+                  "url": "/properties/property-hinjewadi"
                 },
                 {
                   "id": "property-sector-150",
@@ -1352,27 +1042,7 @@
                       "label": "Residences"
                     }
                   ],
-                  "url": "/properties/property-sector-150",
-                  "detail": {
-                    "status": "For Sale",
-                    "category": "Residential",
-                    "publishedDate": "August 19, 2024",
-                    "comments": "27 Comments",
-                    "price": "₹1,95,00,000",
-                    "description": "This spacious Sector 150 residence offers contemporary design, green surroundings and family-focused amenities. Excellent road connectivity and a peaceful location provide the right combination of convenience and comfort.",
-                    "propertyType": "Residence",
-                    "totalArea": "1,600+ Sq.Ft.",
-                    "bedrooms": "3-4 Bedrooms",
-                    "bathrooms": "3 Bathrooms",
-                    "yearBuilt": "2022",
-                    "floor": "14th Floor",
-                    "balcony": "2 Balconies",
-                    "parking": "2 Covered Parking",
-                    "livingRoom": "1 Spacious Living Room",
-                    "kitchen": "1 Modular Kitchen",
-                    "diningArea": "1 Dining Area",
-                    "security": "24/7 Security"
-                  }
+                  "url": "/properties/property-sector-150"
                 },
                 {
                   "id": "property-thane-west",
@@ -1400,27 +1070,7 @@
                       "label": "Apartments"
                     }
                   ],
-                  "url": "/properties/property-thane-west",
-                  "detail": {
-                    "status": "For Sale",
-                    "category": "Apartment",
-                    "publishedDate": "September 05, 2024",
-                    "comments": "19 Comments",
-                    "price": "₹1,45,00,000",
-                    "description": "A contemporary Thane West apartment with thoughtfully designed rooms and easy access to schools, hospitals, retail and transit. The development offers modern amenities for a relaxed and connected lifestyle.",
-                    "propertyType": "Apartment",
-                    "totalArea": "1,100+ Sq.Ft.",
-                    "bedrooms": "2-4 Bedrooms",
-                    "bathrooms": "3 Bathrooms",
-                    "yearBuilt": "2023",
-                    "floor": "11th Floor",
-                    "balcony": "2 Balconies",
-                    "parking": "1 Covered Parking",
-                    "livingRoom": "1 Modern Living Room",
-                    "kitchen": "1 Fitted Kitchen",
-                    "diningArea": "1 Dining Area",
-                    "security": "24/7 Security"
-                  }
+                  "url": "/properties/property-thane-west"
                 },
                 {
                   "id": "property-gachibowli",
@@ -1448,27 +1098,7 @@
                       "label": "Villas"
                     }
                   ],
-                  "url": "/properties/property-gachibowli",
-                  "detail": {
-                    "status": "For Sale",
-                    "category": "Villa",
-                    "publishedDate": "September 18, 2024",
-                    "comments": "23 Comments",
-                    "price": "₹3,25,00,000",
-                    "description": "A premium Gachibowli villa designed for families seeking generous spaces and excellent city connectivity. Bright interiors, landscaped surroundings and proximity to major business hubs make it a compelling home and investment.",
-                    "propertyType": "Villa",
-                    "totalArea": "1,900+ Sq.Ft.",
-                    "bedrooms": "3-5 Bedrooms",
-                    "bathrooms": "4 Bathrooms",
-                    "yearBuilt": "2021",
-                    "floor": "2 Floors",
-                    "balcony": "3 Balconies",
-                    "parking": "2 Covered Parking",
-                    "livingRoom": "1 Spacious Living Room",
-                    "kitchen": "1 Modular Kitchen",
-                    "diningArea": "1 Dining Area",
-                    "security": "Gated Security"
-                  }
+                  "url": "/properties/property-gachibowli"
                 }
               ]
             }
@@ -1583,15 +1213,6 @@
                     "url": "https://linkedin.com"
                   }
                 ]
-              },
-              "location": {
-                "eyebrow": "OUR LOCATION",
-                "title": "Visit Our Office",
-                "description": "123 Main St, New York, NY, USA",
-                "buttonText": "Get Directions",
-                "buttonUrl": "https://www.google.com/maps/search/?api=1&query=123+Main+St%2C+New+York%2C+NY%2C+USA",
-                "mapUrl": "https://www.google.com/maps?q=123+Main+St,+New+York,+NY,+USA&output=embed",
-                "mapTitle": "Map showing the 4homeless office location in New York"
               }
             }
           }
@@ -1601,10 +1222,6 @@
         "pages": {
           "home": {
             "components": [
-              {
-                "key": "TopBar",
-                "component": "FourHomelessTopBar2"
-              },
               {
                 "key": "Header",
                 "component": "FourHomelessHeader2"
@@ -1650,7 +1267,6 @@
   "pages": {
     "home": {
       "components": [
-        "TopBar",
         "Header",
         "Hero",
         "AboutUs",
